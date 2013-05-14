@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/MnuOpc1" android:title="@string/exit"></item> 
+    <item android:id="@+id/MnuOpc2" android:title="@string/connect"></item> 
+
+</menu>

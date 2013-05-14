@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">TutorialBlueTooth</string>
+    
+    <string name="on">Encendido</string>
+    <string name="off">Apagado</string>
+    
+    <string name="bt_not_enabled">Bluetooth no esta activado.</string>
+    
+    <string name="makeDiscoverable">Hacer Visible</string>
+    <string name="searchDevice">Buscar</string>
+    
+    <string name="deviceFound">Dispositivo encontrado</string>
+    
+    <string name="listDevicePaired">Lista de dispositivos emparejados</string>
+    <string name="listDeviceSearch">Lista de dispositivos encontrados</string>
+    
+    <string name="messageNoActiveBluetooth">No has activado el Bluetooth</string>
+    
+   	<string name="messageExist">¿Estás seguro de salir?</string>
+	<string name="ok">Sí</string>
+	<string name="cancel">Cancelar</string>
+	
+	<string name="connect">Conectar</string>
+	<string name="exit">Salir</string>
+
+	<string name="connectDevice">Conexión Realizada</string>	
+	
+	<string name="errorConnectDevice">No se puede conectar al dispositivo</string>	
+	<string name="errorConnectDevicelost">Conexión perdida con el dispositivo</string>
+</resources>
