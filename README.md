@@ -1,4 +1,4 @@
-Ejemplo de controlar bluetooth una dispositivo arduino
+Ejemplo de controlar por bluetooth un dispositivo arduino
 =============
 
 Aquí tenéis un ejemplo de controlar desde un smartphone una placa de arduino por bluetooth.
